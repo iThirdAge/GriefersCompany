@@ -4,6 +4,7 @@
     "website_url": "",
     "description": "Base mods my friends and I use to make managing easier",
     "dependencies": [
-        "readthisifbad-SnatchinBracken-1.5.0"
+        "GriefersCompany-GriefersCoUtilities-1.0.0",
+        "GriefersCompany-GriefersCoCosmetics-1.0.0"
     ]
 }

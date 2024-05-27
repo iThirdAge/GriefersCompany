@@ -4,7 +4,10 @@
     "website_url": "",
     "description": "Brutal config my friends and I use to make managing easier",
     "dependencies": [
-        "GriefersCompany-GriefersCoModPack-3.0.4",
+        "GriefersCompany-GriefersCoUtilities-1.0.0",
+        "GriefersCompany-GriefersCoCosmetics-1.0.0",
+        "GriefersCompany-GriefersCoEnemiesModpack-1.0.0",
+        "GriefersCompany-GriefersCoMaps-1.0.0",
         "IntegrityChaos-Diversity-2.1.0",
         "Coppertiel-MaskedEnemyOverhaulFork-3.3.0",
         "qwbarch-Mirage-1.7.0",        
