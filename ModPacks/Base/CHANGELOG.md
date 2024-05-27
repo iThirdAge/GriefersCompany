@@ -53,3 +53,4 @@ TeamClark-SCP_Foundation_Suit-1.1.0
 ```
 
 4.0.0 - Separate mods into smaller modpacks for ease of customization
+* Strips of enemies and some other changes that were previously here for the sake of it not being "vanilla" to be a "base" config to add to
