@@ -44,3 +44,10 @@ Fredolx-MeteoMultiplier-1.1.3
 Too Many Emotes update
 Reserved Item Slot Core update
 ```
+
+3.0.4
+
+```
+PlainBen-BensCosmetics-1.2.0
+TeamClark-SCP_Foundation_Suit-1.1.0
+```

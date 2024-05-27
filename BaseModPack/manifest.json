@@ -1,6 +1,6 @@
 {
     "name": "GriefersCoModPack",
-    "version_number": "3.0.3",
+    "version_number": "3.0.4",
     "website_url": "",
     "description": "Base mods my friends and I use to make managing easier",
     "dependencies": [
@@ -27,9 +27,11 @@
         "x753-More_Suits-1.4.3",
         "BatTeam-LethalFashion-1.0.7",
         "Verity-TooManySuits-1.0.9",
+        "TeamClark-SCP_Foundation_Suit-1.1.0",
         "OnePeak-Low_Budget_One_Piece_suits-0.5.1",
         "readboy_and_the_boys-brackensuit-1.0.2",
         "Dwarggo-Fashion_Company-1.3.1",
+        "PlainBen-BensCosmetics-1.2.0",
         "Scoops-LethalPhones-1.0.9",
         "vasanex-ItemQuickSwitch-1.1.0",
         "ake-HuhCatClownhorn-1.0.1",
