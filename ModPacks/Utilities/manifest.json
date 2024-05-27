@@ -1,6 +1,6 @@
 {
     "name": "GriefersCoUtilities",
-    "version_number": "1.0.0",
+    "version_number": "2.0.0",
     "website_url": "",
     "description": "BepInEx and other game functionality changes (ex: hotbars)",
     "dependencies": [
@@ -26,6 +26,7 @@
         "Midge-PushCompany-1.2.0",
         "vasanex-ItemQuickSwitch-1.1.0",
         "LethalResonance-LETHALRESONANCE-4.3.4",
-        "Fredolx-MeteoMultiplier-1.1.3"
+        "Fredolx-MeteoMultiplier-1.1.3",
+        "BananaPuncher714-LethalQuantities-1.2.9"
     ]
 }

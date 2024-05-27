@@ -1,10 +1,9 @@
 {
     "name": "GriefersCoMaps",
-    "version_number": "1.1.0",
+    "version_number": "1.0.1",
     "website_url": "",
     "description": "Modpack of Moons and Interiors plus mod to help manage config",
     "dependencies": [
-        "BananaPuncher714-LethalQuantities-1.2.9",
         "Tolian-Tolian_Moons-1.9.4",
         "Magic_Wesley-Wesleys_Moons-4.0.7",
         "AudioKnight-StarlancerMoons-2.2.1",
