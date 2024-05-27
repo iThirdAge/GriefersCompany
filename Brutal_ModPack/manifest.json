@@ -1,10 +1,10 @@
 {
     "name": "GriefersCoBrutalModPack",
-    "version_number": "1.0.0",
+    "version_number": "1.0.1",
     "website_url": "",
     "description": "Brutal config my friends and I use to make managing easier",
     "dependencies": [
-        "GriefersCompany-GriefersCoModPack-3.0.2",
+        "GriefersCompany-GriefersCoModPack-3.0.3",
         "IntegrityChaos-Diversity-2.1.0",
         "Piggy-Piggys_Variety_Mod-1.1.26",
         "JunLethalCompany-GamblingMachineAtTheCompany-1.3.5",
