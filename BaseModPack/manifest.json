@@ -1,12 +1,13 @@
 {
     "name": "GriefersCoModPack",
-    "version_number": "3.0.1",
+    "version_number": "3.0.2",
     "website_url": "",
     "description": "Base mods my friends and I use to make managing easier",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
         "notnotnotswipez-MoreCompany-1.9.1",
         "anormaltwig-LateCompany-1.0.13",
+        "EliteMasterEric-Coroner-1.6.2",
         "mrov-TerminalFormatter-0.2.11",
         "ButteryStancakes-MeleeFixes-1.0.0",
         "Dev1A3-LethalFixes-1.1.1",
