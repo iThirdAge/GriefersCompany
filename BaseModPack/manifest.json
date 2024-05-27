@@ -1,6 +1,6 @@
 {
     "name": "GriefersCoModPack",
-    "version_number": "3.0.2",
+    "version_number": "3.0.3",
     "website_url": "",
     "description": "Base mods my friends and I use to make managing easier",
     "dependencies": [
@@ -13,10 +13,10 @@
         "Dev1A3-LethalFixes-1.1.1",
         "mattymatty-Matty_Fixes-1.0.21",
         "taffyko-BetterSprayPaint-2.0.4",
-        "FlipMods-TooManyEmotes-2.1.17",
+        "FlipMods-TooManyEmotes-2.1.18",
         "CyranIndustries-Sprint_Toggle-1.0.2",
         "FutureSavior-Hold_Scan_Button-1.1.1",
-        "FlipMods-ReservedItemSlotCore-2.0.29",
+        "FlipMods-ReservedItemSlotCore-2.0.30",
         "FlipMods-ReservedFlashlightSlot-2.0.5",
         "FlipMods-ReservedSprayPaintSlot-1.1.1",
         "FlipMods-ReservedWalkieSlot-2.0.5",
