@@ -1,0 +1,9 @@
+{
+    "name": "GriefersCoBrutalModPack",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Brutal mods my friends and I use to make managing easier",
+    "dependencies": [
+        "GriefersCompany-GriefersCoModPack-3.0.1"
+    ]
+}
