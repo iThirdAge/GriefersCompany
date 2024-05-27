@@ -1,8 +1,8 @@
 {
     "name": "GriefersCoMaps",
-    "version_number": "1.0.1",
+    "version_number": "1.0.2",
     "website_url": "",
-    "description": "Modpack of Moons and Interiors plus mod to help manage config",
+    "description": "Modpack of Moons and Interiors",
     "dependencies": [
         "Tolian-Tolian_Moons-1.9.4",
         "Magic_Wesley-Wesleys_Moons-4.0.7",

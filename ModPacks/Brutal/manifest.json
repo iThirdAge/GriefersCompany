@@ -1,12 +1,12 @@
 {
     "name": "GriefersCoBrutalModPack",
-    "version_number": "3.0.0",
+    "version_number": "3.0.1",
     "website_url": "",
     "description": "Brutal config my friends and I use to make managing easier",
     "dependencies": [
         "GriefersCompany-GriefersCoModPack-4.0.0",
         "GriefersCompany-GriefersCoEnemiesModpack-1.0.0",
-        "GriefersCompany-GriefersCoMaps-1.0.1",
+        "GriefersCompany-GriefersCoMaps-1.0.2",
         "GriefersCompany-GriefersCoLoot-1.0.0",
         "IntegrityChaos-Diversity-2.1.0",
         "Coppertiel-MaskedEnemyOverhaulFork-3.3.0",
