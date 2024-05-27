@@ -8,6 +8,7 @@
 *.sln.docstates
 **.user
 **.csproj
+**.zip
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
