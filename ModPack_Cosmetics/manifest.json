@@ -1,0 +1,22 @@
+{
+    "name": "GriefersCoCosmetics",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Suits, Accessories, and for fun stuff (ex: audio changes)",
+    "dependencies": [
+        "x753-More_Suits-1.4.3",
+        "BatTeam-LethalFashion-1.0.7",
+        "Verity-TooManySuits-1.0.9",
+        "OnePeak-Low_Budget_One_Piece_suits-0.5.1",
+        "ViViKo-AmongUsSuits-1.0.2",
+        "Dwarggo-Fashion_Company-1.3.1",
+        "TeamClark-SCP_Foundation_Suit-1.1.0",
+        "TeamClark-Vault_Boy_Suit-1.0.0",
+        "readboy_and_the_boys-brackensuit-1.0.2",
+        "PlainBen-BensCosmetics-1.2.0",
+        "Scoops-LethalPhones-1.0.9",
+        "ake-HuhCatClownhorn-1.0.1",
+        "noxitt-NeedMoreBullets-1.0.3",
+        "HoffmanTV-angry_british_bug-1.4.2"
+    ]
+}

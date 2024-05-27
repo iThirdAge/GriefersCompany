@@ -51,3 +51,5 @@ Reserved Item Slot Core update
 PlainBen-BensCosmetics-1.2.0
 TeamClark-SCP_Foundation_Suit-1.1.0
 ```
+
+4.0.0 - Separate mods into smaller modpacks for ease of customization
