@@ -1,6 +1,6 @@
 {
     "name": "GriefersCoEnemies",
-    "version_number": "1.0.0",
+    "version_number": "2.0.0",
     "website_url": "",
     "description": "Modpack of enemies",
     "dependencies": [
@@ -9,6 +9,9 @@
         "jaspercreations-Scopophobia-1.1.2",
         "Dackie-SCP106-2.0.0",
         "SolidStone-Scp_049_The_Plague_Doctor-1.0.2",
+        "TheWeavers-NightmareFreddy-1.0.1",
+        "TheWeavers-NightmareFoxy-1.1.10",
+        "Aubarino-Sentinel_Mod-1.1.0",
         "zealsprince-Locker-1.2.0",
         "Sparble-FacelessStalker-1.1.5",
         "NomnomAB-RollingGiant-2.6.0",
