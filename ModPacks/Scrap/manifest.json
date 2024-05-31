@@ -1,14 +1,17 @@
 {
     "name": "GriefersCoLoot",
-    "version_number": "1.0.0",
+    "version_number": "2.0.0",
     "website_url": "",
     "description": "Modpack of Scrap",
     "dependencies": [
         "Kittenji-Maxwell_ScrapItem-1.0.1",
+        "Knight_Mylo-Knight_Mylo_ScrapItem-1.0.0",
+        "Richard16001-ChibiCat-1.1.0",
         "Scintesto-Monster_Plushies-1.2.9",
         "Electric131-OuijaBoard-1.5.3",
         "XuXiaolan-ImmersiveScrap-1.1.0",
         "KawaiiBone-Remnants-1.2.16",
-        "Sconeys-abandonedcompanyassets-0.15.79"
+        "Sconeys-abandonedcompanyassets-0.15.79",
+        "Merging-CatBurgerScrap-1.1.2"
     ]
 }
