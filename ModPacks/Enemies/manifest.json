@@ -1,6 +1,6 @@
 {
     "name": "GriefersCoEnemies",
-    "version_number": "3.0.0",
+    "version_number": "4.0.0",
     "website_url": "",
     "description": "Modpack of enemies",
     "dependencies": [
@@ -10,8 +10,6 @@
         "Scoliosis-StrangerThingsMod-0.0.32",
         "TheWeavers-NightmareFoxy-1.1.10",
         "SolidStone-Scp_049_The_Plague_Doctor-1.0.2",
-        "Aubarino-Sentinel_Mod-1.1.0",
-        "zealsprince-Locker-1.2.0",
         "Sparble-FacelessStalker-1.1.5",
         "Kittenji-Herobrine-1.3.3",
         "NomnomAB-RollingGiant-2.6.0",

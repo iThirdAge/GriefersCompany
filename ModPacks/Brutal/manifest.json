@@ -1,11 +1,11 @@
 {
     "name": "GriefersCoBrutal",
-    "version_number": "3.4.0",
+    "version_number": "3.5.0",
     "website_url": "",
     "description": "Brutal modpack config my friends and I use to make managing easier",
     "dependencies": [
         "GriefersCompany-GriefersCo-2.2.0",
-        "GriefersCompany-GriefersCoEnemies-3.0.0",
+        "GriefersCompany-GriefersCoEnemies-4.0.0",
         "GriefersCompany-GriefersCoMaps-3.0.0",
         "GriefersCompany-GriefersCoLoot-2.0.0",
         "KawaiiBone-Remnants-1.2.16",
