@@ -1,6 +1,6 @@
 {
     "name": "GriefersCoCosmetics",
-    "version_number": "2.0.0",
+    "version_number": "3.0.0",
     "website_url": "",
     "description": "Suits, Accessories, and for fun stuff (ex: audio changes)",
     "dependencies": [
@@ -8,8 +8,11 @@
         "BatTeam-LethalFashion-1.0.7",
         "Verity-TooManySuits-1.0.9",
         "OnePeak-Low_Budget_One_Piece_suits-0.5.1",
+        "CoNcept_Temple_Modding-Scooby_Doo_Crew_Suits-1.0.4",        
         "ViViKo-AmongUsSuits-1.0.2",
         "DullHorses-RuneScrapSuits-1.0.0",
+        "cototo11-BatmanSuit-1.3.2",
+        "Matber03-LightPinkSuit-1.0.1",
         "Dwarggo-Fashion_Company-1.3.1",
         "TeamClark-SCP_Foundation_Suit-1.1.0",
         "TeamClark-Vault_Boy_Suit-1.0.0",

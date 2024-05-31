@@ -1,6 +1,6 @@
 {
     "name": "GriefersCoMaps",
-    "version_number": "1.0.2",
+    "version_number": "2.0.0",
     "website_url": "",
     "description": "Modpack of Moons and Interiors",
     "dependencies": [
@@ -22,6 +22,6 @@
         "Scintesto-Monster_Plushies-1.2.9",
         "Electric131-OuijaBoard-1.5.3",
         "XuXiaolan-ImmersiveScrap-1.1.0",
-        "KawaiiBone-Remnants-1.2.16"
+        "Skeleton_Studios-Welcome_To_Ooblterra-1.1.0"
     ]
 }
