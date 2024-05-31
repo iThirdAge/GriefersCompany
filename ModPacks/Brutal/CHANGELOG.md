@@ -9,3 +9,5 @@
 3.2.0 - Dependencies update
 
 3.3.0 - Moons update
+
+3.4.0 - Update cosmetics
