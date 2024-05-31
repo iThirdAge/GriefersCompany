@@ -4,4 +4,6 @@
 
 1.0.2 - Update README
 
-2.0.0 - Add new moon `Skeleton_Studios-Welcome_To_Ooblterra-1.1.0` with basically whole new game experience
+2.0.0 - Add new moon [Skeleton_Studios-Welcome_To_Ooblterra-1.1.0](https://thunderstore.io/c/lethal-company/p/Skeleton_Studios/Welcome_To_Ooblterra/) with basically whole new game experience
+
+3.0.0 - Add FFXIV moons [BoboBoba-Bobos_XIV_Moons-1.3.0](https://thunderstore.io/c/lethal-company/p/BoboBoba/Bobos_XIV_Moons/)
