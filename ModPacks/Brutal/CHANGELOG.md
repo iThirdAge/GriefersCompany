@@ -13,3 +13,5 @@
 3.4.0 - Update cosmetics
 
 3.5.0 - Update enemies
+
+4.0.0 - Add emotes

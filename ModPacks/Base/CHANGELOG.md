@@ -5,3 +5,5 @@
 2.1.0 - update cosmetics dependency
 
 2.2.0 - update cosmetics dependency
+
+3.0.0 - update cosmetics dependency

@@ -1,8 +1,8 @@
 {
     "name": "GriefersCoCosmetics",
-    "version_number": "3.0.1",
+    "version_number": "4.0.0",
     "website_url": "",
-    "description": "Suits, Accessories, and for fun stuff (ex: audio changes)",
+    "description": "Suits, Accessories, and for fun stuff (ex: emotes, audio changes)",
     "dependencies": [
         "x753-More_Suits-1.4.3",
         "BatTeam-LethalFashion-1.0.7",
@@ -22,6 +22,7 @@
         "noxitt-NeedMoreBullets-1.0.3",
         "ZVT-Spy_Hoarding_Bug-1.0.0",
         "NeoPositive-AngryBritishButler-1.2.6",
-        "Thwompants-The_Company_Administrator_TF2-1.0.0"
+        "Thwompants-The_Company_Administrator_TF2-1.0.0",
+        "FlipMods-TooManyEmotes-2.1.18"
     ]
 }
