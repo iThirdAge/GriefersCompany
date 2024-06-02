@@ -7,3 +7,7 @@
 2.2.0 - update cosmetics dependency
 
 3.0.0 - update cosmetics dependency
+
+3.0.1 - update cosmetics dependency
+
+3.0.2 - update cosmetics

@@ -1,13 +1,13 @@
 {
     "name": "GriefersCoBrutal",
-    "version_number": "4.0.0",
+    "version_number": "4.0.3",
     "website_url": "",
     "description": "Brutal modpack config my friends and I use to make managing easier",
     "dependencies": [
-        "GriefersCompany-GriefersCo-3.0.0",
+        "GriefersCompany-GriefersCo-3.0.2",
         "GriefersCompany-GriefersCoEnemies-4.0.0",
-        "GriefersCompany-GriefersCoMaps-3.0.0",
-        "GriefersCompany-GriefersCoLoot-2.0.0",
+        "GriefersCompany-GriefersCoMaps-4.0.0",
+        "GriefersCompany-GriefersCoLoot-3.0.0",
         "KawaiiBone-Remnants-1.2.16",
         "Coppertiel-MaskedEnemyOverhaulFork-3.3.0",
         "qwbarch-Mirage-1.7.0",

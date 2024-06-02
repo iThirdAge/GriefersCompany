@@ -1,6 +1,6 @@
 {
     "name": "GriefersCoLoot",
-    "version_number": "2.0.0",
+    "version_number": "3.0.0",
     "website_url": "",
     "description": "Modpack of Scrap",
     "dependencies": [
@@ -12,6 +12,7 @@
         "XuXiaolan-ImmersiveScrap-1.1.0",
         "KawaiiBone-Remnants-1.2.16",
         "Sconeys-abandonedcompanyassets-0.15.79",
-        "Merging-CatBurgerScrap-1.1.2"
+        "Merging-CatBurgerScrap-1.1.2",
+        "BoboBoba-XIVItems-1.7.1"
     ]
 }

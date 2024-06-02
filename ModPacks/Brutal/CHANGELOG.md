@@ -15,3 +15,7 @@
 3.5.0 - Update enemies
 
 4.0.0 - Add emotes
+
+4.0.1 - update base dependency
+
+4.0.2 - update base
