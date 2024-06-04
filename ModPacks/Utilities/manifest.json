@@ -1,6 +1,6 @@
 {
     "name": "GriefersCoUtilities",
-    "version_number": "2.0.0",
+    "version_number": "3.0.0",
     "website_url": "",
     "description": "BepInEx and other game functionality changes (ex: hotbars)",
     "dependencies": [
