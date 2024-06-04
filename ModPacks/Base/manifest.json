@@ -1,10 +1,10 @@
 {
     "name": "GriefersCo",
-    "version_number": "3.0.2",
+    "version_number": "3.0.3",
     "website_url": "",
     "description": "Basically Vanilla + Cosmetics and some fixes. Moons are free.",
     "dependencies": [
-        "GriefersCompany-GriefersCoUtilities-2.0.0",
+        "GriefersCompany-GriefersCoUtilities-3.0.0",
         "GriefersCompany-GriefersCoCosmetics-5.0.0"
     ]
 }

@@ -9,3 +9,5 @@
 3.0.0 - Add FFXIV moons [BoboBoba-Bobos_XIV_Moons-1.3.0](https://thunderstore.io/c/lethal-company/p/BoboBoba/Bobos_XIV_Moons/)
 
 4.0.0 - Remove FFXIV moons due to performance strain from dependency [ViewExtension](https://thunderstore.io/c/lethal-company/p/sfDesat/ViewExtension/)
+
+5.0.0 - remove Starlancer moons that references view extension mod

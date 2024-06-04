@@ -1,12 +1,11 @@
 {
     "name": "GriefersCoMaps",
-    "version_number": "4.0.0",
+    "version_number": "5.0.0",
     "website_url": "",
     "description": "Modpack of Moons and Interiors",
     "dependencies": [
         "Tolian-Tolian_Moons-1.9.4",
         "Magic_Wesley-Wesleys_Moons-4.0.7",
-        "AudioKnight-StarlancerMoons-2.2.1",
         "AudioKnight-StarlancerWarehouse-1.6.4",
         "Magic_Wesley-WesleysInteriors-1.1.11",
         "Zehs-WesleysInteriorsAddon-1.0.1",

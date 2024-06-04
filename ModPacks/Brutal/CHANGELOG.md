@@ -19,3 +19,5 @@
 4.0.1 - update base dependency
 
 4.0.2 - update base
+
+5.0.0 - update moons; remove packs that reference view extension
