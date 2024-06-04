@@ -1,10 +1,10 @@
 {
     "name": "GriefersCoBrutal",
-    "version_number": "5.0.0",
+    "version_number": "6.0.0",
     "website_url": "",
     "description": "Brutal modpack config my friends and I use to make managing easier",
     "dependencies": [
-        "GriefersCompany-GriefersCo-3.0.3",
+        "GriefersCompany-GriefersCo-4.0.0",
         "GriefersCompany-GriefersCoEnemies-4.0.0",
         "GriefersCompany-GriefersCoMaps-5.0.0",
         "GriefersCompany-GriefersCoLoot-3.0.0",
