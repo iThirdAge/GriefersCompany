@@ -21,3 +21,5 @@
 4.0.2 - update base
 
 5.0.0 - update moons; remove packs that reference view extension
+
+6.0.0 - add openmonitors open source upgrade; companyrestructure
