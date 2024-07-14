@@ -3,3 +3,5 @@
 2.0.0 - Add some new loots
 
 3.0.0 - Add [FFXIV Loot](https://thunderstore.io/c/lethal-company/p/BoboBoba/XIVItems/)
+
+4.0.0 - Remove loot referencing deprecated pack

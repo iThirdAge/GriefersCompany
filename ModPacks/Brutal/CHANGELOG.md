@@ -23,3 +23,9 @@
 5.0.0 - update moons; remove packs that reference view extension
 
 6.0.0 - add openmonitors open source upgrade; companyrestructure
+
+7.0.0 - remove moons, weather doesnt work anymore
+
+7.0.1 - remove weather announce, not necessary anymore
+
+8.0.0 - remove loot calling deprecated dependency

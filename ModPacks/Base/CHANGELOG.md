@@ -15,3 +15,5 @@
 3.0.3 - remove shiploot
 
 4.0.0 - add openmonitors from utilities
+
+5.0.0 - compress all GriefersPacks to make easier to manage for less people

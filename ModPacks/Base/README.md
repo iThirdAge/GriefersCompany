@@ -1,3 +1,3 @@
-This is the baseline of mods my group use. The purpose is to make moving around and trying other mod packs easier.
+Mod collection for my friends and myself. Compressed from multiple mod packs to make management easier.
 
 [icon.png source](https://x.com/nintorun20)
