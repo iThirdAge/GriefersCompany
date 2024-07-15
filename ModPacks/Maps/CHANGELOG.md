@@ -11,3 +11,7 @@
 4.0.0 - Remove FFXIV moons due to performance strain from dependency [ViewExtension](https://thunderstore.io/c/lethal-company/p/sfDesat/ViewExtension/)
 
 5.0.0 - remove Starlancer moons that references view extension mod
+
+6.0.0 - Remove moons, performance issues
+
+7.0.0 - Remove repeated objects
