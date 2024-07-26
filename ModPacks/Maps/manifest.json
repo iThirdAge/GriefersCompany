@@ -1,19 +1,18 @@
 {
     "name": "GriefersCoMaps",
-    "version_number": "8.0.0",
+    "version_number": "9.0.0",
     "website_url": "",
-    "description": "Modpack of Interiors",
+    "description": "Modpack of Interiors with Moons",
     "dependencies": [
         "AudioKnight-StarlancerWarehouse-1.6.4",
         "Magic_Wesley-WesleysInteriors-1.1.11",
+        "Magic_Wesley-Wesleys_Moons-4.0.28",
         "Zehs-WesleysInteriorsAddon-1.0.1",
         "Tolian-HyperionStation-0.0.2",
         "Badham_Mods-SCPFoundationDungeon-4.3.0",
         "Alice-ScarletDevilMansion-1.3.16",
-        "theMenagerie-LiminalPools-1.0.8",
         "MrUnrealTeam-SchoolDungeon-1.2.1",
         "Dantor-Dantors_Mental_Hospital-1.2.2",
-        "Piggy-LC_Office-1.1.29",
-        "skidz-PoolRooms-0.1.22"
+        "Piggy-LC_Office-1.1.29"
     ]
 }

@@ -19,3 +19,5 @@
 5.0.0 - compress all GriefersPacks to make easier to manage for less people
 
 5.0.1 - remove some unused mods
+
+6.0.0 - add back interiors and moons
