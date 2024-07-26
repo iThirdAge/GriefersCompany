@@ -21,3 +21,10 @@
 5.0.1 - remove some unused mods
 
 6.0.0 - add back interiors and moons
+
+6.1.0
+* remove moons pack depenency, doesnt allow you to just disable the pack to disable the moons.
+* remove phones
+* update all mods to date 7/26. 
+* Moons are free now, Cheaper Fuel Company doesn't appear to work anymore.
+* Add LethalQuantities for ease of customization in UI for maps
