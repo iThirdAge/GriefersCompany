@@ -28,3 +28,7 @@
 * update all mods to date 7/26. 
 * Moons are free now, Cheaper Fuel Company doesn't appear to work anymore.
 * Add LethalQuantities for ease of customization in UI for maps
+
+6.2.0
+* Add Meltdown Chance
+* Add Malfunctions to ship
