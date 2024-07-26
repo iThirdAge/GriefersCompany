@@ -1,10 +1,11 @@
 {
     "name": "GriefersCo",
-    "version_number": "5.0.2",
+    "version_number": "6.0.0",
     "website_url": "",
     "description": "Moons should be free. Enemies and some changes",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
+        "GriefersCompany-GriefersCoMaps-9.0.0",
         "notnotnotswipez-MoreCompany-1.9.1",
         "anormaltwig-LateCompany-1.0.13",
         "EliteMasterEric-Coroner-1.6.2",
@@ -49,6 +50,7 @@
         "KawaiiBone-Remnants-1.2.16",
         "Scintesto-Monster_Plushies-1.2.9",
         "XuXiaolan-ImmersiveScrap-1.1.0",
+        "Kittenji-Dont_Touch_Me-1.2.3",
         "x753-Mimics-2.6.0",
         "Zehs-ToilHead-1.4.0",
         "jaspercreations-Scopophobia-1.1.2",
