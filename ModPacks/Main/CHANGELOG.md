@@ -34,4 +34,4 @@
 * Add Malfunctions to ship
 
 6.3.0
-* Remove LethalQuantities injection
+* Remove LethalQuantities - seems root cause is LethalLevelLoader though
