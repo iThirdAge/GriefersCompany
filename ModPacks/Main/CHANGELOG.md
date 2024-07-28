@@ -32,3 +32,6 @@
 6.2.0
 * Add Meltdown Chance
 * Add Malfunctions to ship
+
+6.3.0
+* Remove LethalQuantities injection
