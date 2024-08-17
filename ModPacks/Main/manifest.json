@@ -1,6 +1,6 @@
 {
     "name": "GriefersCo",
-    "version_number": "6.3.0",
+    "version_number": "6.4.0",
     "website_url": "",
     "description": "Should be patchday resilient. Moons should be free. Enemies and some changes. Maps separated into GriefersCoMaps",
     "dependencies": [
@@ -45,7 +45,6 @@
         "NeoPositive-AngryBritishButler-1.2.6",
         "FlipMods-TooManyEmotes-2.1.25",
         "Kittenji-Maxwell_ScrapItem-1.0.1",
-        "KawaiiBone-Remnants-1.3.4",
         "Scintesto-Monster_Plushies-1.2.9",
         "XuXiaolan-ImmersiveScrap-1.1.2",
         "Kittenji-Dont_Touch_Me-1.2.3",
