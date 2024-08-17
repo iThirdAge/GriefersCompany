@@ -38,3 +38,8 @@
 
 6.4.0
 * Remove Remants - Depends on LevelLoader
+
+6.5.0
+* Meltdown fails to load on patchday (v60)
+* Pathfinder fails to patch FlowerManAI
+* Remove RollingGiant. Interactions not quite there
