@@ -40,6 +40,10 @@
 * Remove Remants - Depends on LevelLoader
 
 6.5.0
-* Meltdown fails to load on patchday (v60)
-* Pathfinder fails to patch FlowerManAI
+* Meltdown fails to load on patchday (v60) did not test if game still plays
+* Pathfinder fails to patch FlowerManAI (v60). did not test if game still plays
 * Remove RollingGiant. Interactions not quite there
+
+6.6.0
+* Remove CullFactory. generates hanglamp failure but game still loads (v60)
+* Remove Immersive scrap. Ggenerates 1 incompatible scrap failure though game still loads (v60)
