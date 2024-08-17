@@ -1,6 +1,6 @@
 {
     "name": "GriefersCoMaps",
-    "version_number": "9.2.0",
+    "version_number": "9.3.0",
     "website_url": "",
     "description": "Modpack of Interiors with Moons. Usually breaks on patchday because of LevelLoader",
     "dependencies": [
@@ -12,6 +12,7 @@
         "Alice-ScarletDevilMansion-1.3.21",
         "MrUnrealTeam-SchoolDungeon-1.2.5",
         "Dantor-Dantors_Mental_Hospital-1.2.2",
-        "Piggy-LC_Office-1.2.0"
+        "Piggy-LC_Office-1.2.0",
+        "KawaiiBone-Remnants-1.3.4"
     ]
 }

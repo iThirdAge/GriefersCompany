@@ -35,3 +35,6 @@
 
 6.3.0
 * Remove LethalQuantities - seems root cause is LethalLevelLoader though
+
+6.4.0
+* Remove Remants - Depends on LevelLoader
