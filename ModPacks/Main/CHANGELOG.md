@@ -47,3 +47,7 @@
 6.6.0
 * Remove CullFactory. generates hanglamp failure but game still loads (v60)
 * Remove Immersive scrap. Ggenerates 1 incompatible scrap failure though game still loads (v60)
+
+7.0.0
+* Remove deprecated mods
+* Sync to Aug 23rd 2024
