@@ -51,3 +51,6 @@
 7.0.0
 * Remove deprecated mods
 * Sync to Aug 23rd 2024
+
+7.1.0
+* Remove deprecated mods
