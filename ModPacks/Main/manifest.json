@@ -1,6 +1,6 @@
 {
     "name": "GriefersCo",
-    "version_number": "7.1.0",
+    "version_number": "7.2.0",
     "website_url": "",
     "description": "Should be patchday resilient. Moons should be free. Enemies and some changes. Maps separated into GriefersCoMaps",
     "dependencies": [
@@ -40,10 +40,10 @@
         "ZVT-Spy_Hoarding_Bug-1.0.0",
         "NeoPositive-AngryBritishButler-1.2.6",
         "Kittenji-Maxwell_ScrapItem-1.0.1",
+        "KawaiiBone-Remnants-1.3.6",
         "Scintesto-Monster_Plushies-1.2.9",
         "Kittenji-Dont_Touch_Me-1.2.4",
         "x753-Mimics-2.6.4",
-        "Zehs-ToilHead-1.7.2",
         "jaspercreations-Scopophobia-1.1.3",
         "Scoliosis-StrangerThingsMod-0.0.32",
         "TheWeavers-NightmareFoxy-1.1.10",

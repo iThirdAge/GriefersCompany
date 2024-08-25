@@ -54,3 +54,7 @@
 
 7.1.0
 * Remove deprecated mods
+
+7.2.0
+* Add back Remnants
+* Remove ToilHead
