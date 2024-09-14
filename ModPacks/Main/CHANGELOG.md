@@ -58,3 +58,7 @@
 7.2.0
 * Add back Remnants
 * Remove ToilHead
+
+7.3.0
+* Remove deprecated StrangerThings
+* Sync to Sept 14 2024
