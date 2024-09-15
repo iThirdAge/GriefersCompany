@@ -62,3 +62,6 @@
 7.3.0
 * Remove deprecated StrangerThings
 * Sync to Sept 14 2024
+
+7.4.0
+* Remove PlagueDoc
